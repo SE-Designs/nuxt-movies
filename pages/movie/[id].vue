@@ -84,7 +84,7 @@ onMounted(async () => {
 <style scoped>
 .details-grid {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column;
   gap: 32px 64px;
   position: relative;
 }
